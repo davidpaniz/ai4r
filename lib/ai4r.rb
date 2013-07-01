@@ -25,6 +25,7 @@ require File.dirname(__FILE__) +  "/ai4r/classifiers/zero_r"
 require File.dirname(__FILE__) +  "/ai4r/classifiers/hyperpipes"
 require File.dirname(__FILE__) +  "/ai4r/classifiers/naive_bayes"
 require File.dirname(__FILE__) +  "/ai4r/classifiers/ib1"
+require File.dirname(__FILE__) +  "/ai4r/classifiers/multilayer_perceptron"
 # Neural networks
 require File.dirname(__FILE__) +  "/ai4r/neural_network/backpropagation"
 require File.dirname(__FILE__) +  "/ai4r/neural_network/hopfield"
